@@ -57,6 +57,6 @@ if __name__ == "__main__":
     print(fig_r.perimeter_rectangle())
     print(fig_r.square_rectangle())
     print(fig_r.painting("yellow"))
-    print(fig_r.painting("blue"))
+    print(fig_r.painting("green"))
     print(fig_r.painting("yellow"))
     print(fig_r.info_rectangle())
